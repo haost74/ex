@@ -1,6 +1,6 @@
 # CMake generated Testfile for 
-# Source directory: /home/haost/Desktop/ex/build/_deps/googletest-src
-# Build directory: /home/haost/Desktop/ex/build/_deps/googletest-build
+# Source directory: C:/Users/74hao/Desktop/ex/build/_deps/googletest-src
+# Build directory: C:/Users/74hao/Desktop/ex/build/_deps/googletest-build
 # 
 # This file includes the relevant testing commands required for 
 # testing this directory and lists subdirectories to be tested as well.

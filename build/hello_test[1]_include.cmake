@@ -1,5 +1,5 @@
-if(EXISTS "/home/haost/Desktop/ex/build/hello_test[1]_tests.cmake")
-  include("/home/haost/Desktop/ex/build/hello_test[1]_tests.cmake")
+if(EXISTS "C:/Users/74hao/Desktop/ex/build/hello_test[1]_tests.cmake")
+  include("C:/Users/74hao/Desktop/ex/build/hello_test[1]_tests.cmake")
 else()
   add_test(hello_test_NOT_BUILT hello_test_NOT_BUILT)
 endif()
